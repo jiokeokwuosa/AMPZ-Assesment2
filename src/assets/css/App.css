@@ -1,0 +1,214 @@
+.App{
+  background: linear-gradient(to bottom, #1E90FF 0%, #ffffff 100%);
+  padding: 51px 160px;
+}
+/* 6699ff */
+#main{  
+  background: white;
+  position: relative;
+  z-index: 20;
+}
+#main .myInput input {
+  padding: 10px 33px 10px 2px;
+  border: none;     
+  border-bottom: solid 2px#00BFFF;
+  font-size: 16px;
+  color:#00BFFF;
+}
+#main .myInput img {
+  margin-left: -43px;
+}
+#main .icons img {
+  margin-right: 53px;
+  width: 24px;
+  height: 23px;
+}
+
+#main .row1 {
+  padding: 33px 35px;
+}
+#main .icons{
+  text-align: right;
+}
+#main .myInput {
+  margin-top: -10px;
+}
+#main .firstCurve {
+  position: absolute;
+  left: 0px;
+  width: 100%;
+  top: 70px;
+  z-index: 10;
+}
+#main .row2 {
+  background:#1E90FF;
+  opacity: 0.9;
+  padding: 46px 43px;
+  color:white;
+}
+#main .row2 span {
+  font-weight: bold;
+}
+#main .row2 img {
+  margin-right: 30px;
+}
+#main .row2 select {
+    background:#1E90FF;
+    color:  white;
+    padding: 2px 16px 2px 2px;
+    border: solid 1px;
+    border-radius: 7px;
+}
+#main .row3 {
+  background:#1E90FF;
+  opacity: 0.9;
+  padding: 0px 43px 130px 43px;
+  color:white;
+}
+#main .row3 .mainImg {
+  width: 233px;
+  height: 142px;
+  margin-left: -15px;
+}
+#main .row3 .writeUp{
+  background:white;
+  color: black;
+  padding: 5px 10px;
+}
+.relative{
+  position: relative;
+}
+#main .row3 .red {
+  position: absolute;
+  background: red;
+  border-radius: 43px;
+  font-size: 13px;
+  padding: 3px 5px;
+  left: 7px;
+  bottom: 66px;
+}
+#main .row3 .blue{
+  position: absolute;
+  background: #1E90FF;
+  border-radius: 43px;
+  font-size: 13px;
+  padding: 3px 5px;
+  left: 7px;
+  bottom: 66px;
+}
+#main .row3 .grey{
+  position: absolute;
+  background: #696969;
+  border-radius: 43px;
+  font-size: 13px;
+  padding: 3px 5px;
+  left: 7px;
+  bottom: 66px;
+}
+
+#main .row3 .heart {
+  position: absolute;
+  bottom: 16px;
+  right: 40px;
+  z-index: 2;
+}
+
+#main .writeUpContainer{
+  width:100%;
+}
+#main .pushDown {
+  margin-top: 27px;
+}
+#main .dropdown {
+  margin-right: 5px;
+}
+ul {
+  list-style: none;
+}
+#main .dropdown1 {
+  margin-right: 5px;
+  margin-top: -3px;
+}
+#main .push {
+  margin-bottom: 16px;
+}
+#main .push2 {
+  margin-top: 70px;
+  margin-bottom: 16px;
+}
+#main .greenCircle {
+  padding: 0px 11px;
+  background:  green;
+  border-radius: 22px;
+  margin-right: 7px;
+}
+#main .yellowCircle {
+  padding: 0px 11px;
+  background:  yellow;
+  border-radius: 22px;
+  margin-right: 7px;
+}
+#main .whiteCircle {
+  padding: 0px 11px;
+  background:  white;
+  border-radius: 22px;
+  margin-right: 7px;
+}
+#main .greyCircle {
+  padding: 0px 11px;
+  background:  grey;
+  border-radius: 22px;
+  margin-right: 7px;
+}
+#main .darkredCircle {
+  padding: 0px 11px;
+  background: darkred;
+  border-radius: 22px;
+  margin-right: 7px;
+}
+#main .redCircle {
+  padding: 0px 11px;
+  background: red;
+  border-radius: 22px;
+  margin-right: 7px;
+}
+#main .blueCircle {
+  padding: 0px 11px;
+  background: blue;
+  border-radius: 22px;
+  margin-right: 7px;
+}
+#main .circle{
+  margin-top: 24px;
+  margin-left: -1px;
+}
+#main .button {
+  background: linear-gradient(to bottom, blue 0%, #1E90FF 100%);
+  padding: 8px 10px;
+  margin-top: 19px;
+  border-radius: 12px;
+}
+.floatingImg1 {
+  position: absolute;
+  bottom: -2px;
+  left: -1px;
+  width: 100%;
+  opacity: 0.5;
+}
+.copyright {
+  position: absolute;
+  right: 17px;
+  bottom: 0px;
+}
+.floatingImg2 {
+  position: absolute;
+  left: 0px;
+  opacity: 1;
+  margin-top: -92px;
+}
+.floatingImg3 {
+  position: absolute;
+  right: 0px;
+  opacity: 0.5;
+  margin-top: -26px;
+}
